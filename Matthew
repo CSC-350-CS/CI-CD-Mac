@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+  <title>My Life as Matthew</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+    <h1>What does it mean to be a Matthew?</h1>
+    <p>
+      As a lifetime long Matthew, I know what it takes to be the best. I grew up in the streets, 
+      well, a street in the small town of Brighton Michigan. However, when I was a small child, 
+      my parents left... and took us to Malaysia to be missionaries! I was in Malaysia for eight years,
+      I did come back for a month or two every now and then, but I was mainly in Malaysia.
+      That explains why I may be weird because I am a missionary kid and they are usually pretty weird.
+      Anyways, some stuff happened, some people died (no one important don't worry (not that people aren't
+      important, it was just my grandpa who was already 80 years old and had a very good life)(Oh and some dogs and cats)), and now I am
+      here in Grand Rapids. That's pretty much my lfie
+    </p>
+    <div>
+        Have these links:
+        <ul>
+          <li><a href="./Matthew">Matthew</a></li>
+          <li><a href="./Daniela">Daniela</a></li>
+          <li><a href="./Abenezer">Abenezer</a></li>
+          <li><a href="./David">David</a></li>
+          <li><a href="./Alejandro">Alejandro</a></li>
+        </ul>
+      </div>
+    </body>
+    
